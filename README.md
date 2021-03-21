@@ -23,4 +23,4 @@ This package requires:
 
 ## User installation
 
-`pip install bran`
+`pip install -i https://test.pypi.org/simple/ bran`
