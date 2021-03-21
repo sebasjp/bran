@@ -1,0 +1,8 @@
+setup.py
+bran/BootstrapConfidenceIntervals.py
+bran/__init__.py
+bran.egg-info/PKG-INFO
+bran.egg-info/SOURCES.txt
+bran.egg-info/dependency_links.txt
+bran.egg-info/not-zip-safe
+bran.egg-info/top_level.txt
