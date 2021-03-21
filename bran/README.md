@@ -8,9 +8,13 @@ The Bran name came from the *Game of Thrones* serie. Bran Stark son of Eddard St
 
 bran
 ├── BootstrapConfidenceIntervals.py
+
 ├── __init__.py
+
 ├── licence.txt
+
 ├── setup.cfg
+
 ├── README.md
 
 # Installation
