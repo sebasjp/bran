@@ -31,9 +31,9 @@ class BootstrapCI:
         for i in range(100):
             arr_sample = np.random.choice(arr, n, replace = True)
             if self.avg:
-                estimator_i = np.mean(estimator_i)
+                estimator_i = np.mean(arr_sample)
             else:
-                estimator_i = np.quantile(estimator_i, self.q)
+                estimator_i = np.quantile(arr_sample, self.q)
                 
             estimator_list.append(estimator_i)
         
