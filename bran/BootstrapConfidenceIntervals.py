@@ -26,6 +26,7 @@ class BootstrapCI:
             raise
 
         n = len(arr)
+        estimator_i = None
         estimator_list = []
         
         for i in range(100):
