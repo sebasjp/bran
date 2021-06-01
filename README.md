@@ -9,7 +9,7 @@ The Bran name came from the *Game of Thrones* serie. Bran Stark son of Eddard St
 </p>
 
 
-This package is in **TestPyPi repository**. Unit test missed yet.
+This package is in **TestPyPi repository**. Unit tests are still missing.
 
 # Dependences
 
